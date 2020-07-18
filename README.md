@@ -14,8 +14,8 @@ This workshop is **cross-platform**, so all operating systems should follow the 
 ## Getting Started
 
 5. Open Visual Studio Code and open a terminal with the Ctrl+Shift+` shortcut
-6. Clone the workshop repository using `git clone https://github.com/mtaylor76/data-science-workshop.git`
+6. Clone the workshop repository using **git clone https://github.com/mtaylor76/data-science-workshop.git**
 7. Go to File -> Open Folder and navigate to the folder of the newly-cloned repository. Click OK.
 8. With the folder open, open a terminal with Ctrl+Shift+`
-9. Run the following command to install needed libraries: `pip install -r requirements.txt`
+9. Run the following command to install needed libraries: **pip install -r requirements.txt**
 10. Open the PantherHacks Data Science Workshop notebook to begin.
